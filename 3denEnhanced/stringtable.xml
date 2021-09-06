@@ -1010,6 +1010,7 @@
     <Chinese>允許疾跑</Chinese>
     <Polish>Zezwól na sprint</Polish>
     <Russian>Разрешить бег</Russian>
+    <Portuguese>Permitir sprintar</Portuguese>
   </Key>
   <Key ID="STR_ENH_ALLOWSPRINTING_TOOLTIP">
     <English>Unit can't sprint if unchecked.</English>
@@ -1022,6 +1023,7 @@
     <Chinese>如果不勾選，單位就不能衝刺。</Chinese>
     <Polish>Jednostka nie może sprintować jeżeli nie zaznaczone.</Polish>
     <Russian>Отряд не может бегать, если отключено</Russian>
+    <Portuguese>A unidade não pode sprintar se não for controlada.</Portuguese>
   </Key>
   <Key ID="STR_ENH_CAPTIVE_TOOLTIP">
     <English>The unit will not be attacked and will join the civilian side. The unit will still attack enemies!</English>
@@ -1029,6 +1031,7 @@
     <German>Die Einheit wechselt auf die zivile Seite und wird nicht angegriffen. Die Einheit greift feindliche Einheiten trotzdem an!</German>
     <Chinesesimp>该单位不会受到攻击，并将加入平民阵营。但该单位仍然会攻击敌人！</Chinesesimp>
     <Chinese>該單位不會受到攻擊，並將加入平民陣營。但該單位仍然會攻擊敵人！</Chinese>
+    <Portuguese>A unidade não será atacada e juntar-se-á ao lado civil. A unidade continuará a atacar inimigos!</Portuguese>
   </Key>
   <Key ID="STR_ENH_ENABLEHEADLIGHTS_DISPLAYNAME">
     <English>Enable Headlights</English>
@@ -1041,6 +1044,7 @@
     <Chinese>打開車頭燈</Chinese>
     <Polish>Włącz reflektory</Polish>
     <Russian>Включить фары</Russian>
+    <Portuguese>Ativar os faróis</Portuguese>
   </Key>
   <Key ID="STR_ENH_ENABLEHEADLIGHTS_TOOLTIP">
     <English>Will enable headlights of selected EMPTY vehicle.</English>
@@ -1053,6 +1057,7 @@
     <Chinese>將打開選定的空車的前大燈。</Chinese>
     <Polish>Włączy reflektory na zaznaczonych PUSTYCH pojazdach.</Polish>
     <Russian>Включит фары выбранного ПУСТОГО транспортного средства.</Russian>
+    <Portuguese>Irá ativar os faróis do veículo VAZIO selecionado.</Portuguese>
   </Key>
   <Key ID="STR_ENH_ALLOWCREWIMMOBILE_DISPLAYNAME">
     <English>Forbid Disembarking</English>
@@ -1061,6 +1066,7 @@
     <Spanish>Prohibir desembarco</Spanish>
     <Chinesesimp>禁止下车</Chinesesimp>
     <Chinese>禁止下載具</Chinese>
+    <Portuguese>Proibir o Desembarque</Portuguese>
   </Key>
   <Key ID="STR_ENH_ALLOWCREWIMMOBILE_TOOLTIP">
     <English>Crew stays in vehicle even though the vehicle is disabled.</English>
@@ -1073,6 +1079,7 @@
     <Chinese>即使車輛損壞，乘員仍然待在車內。</Chinese>
     <Polish>Załoga zostaje w pojeździe nawet jeżeli pojazd jest niesprawny.</Polish>
     <Russian>Экипаж остается в автомобиле, даже если автомобиль неисправен</Russian>
+    <Portuguese>A tripulação permanece no veículo, mesmo que o veículo esteja desativado.</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIMINGSHAKE_DISPLAYNAME">
     <English>Aiming Shake</English>
@@ -1085,6 +1092,7 @@
     <Chinese>瞄準晃動</Chinese>
     <Polish>Stabilność celowania</Polish>
     <Russian>Раскачивание прицела</Russian>
+    <Portuguese>Tremer quando mirar</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIMINGSHAKE_TOOLTIP">
     <English>Affects how steadily the AI can hold a weapon (Higher value = less weapon sway).</English>
@@ -1097,6 +1105,7 @@
     <Chinese>影響AI持有武器的穩定程度(數值越高=武器越穩)。</Chinese>
     <Polish>Wpływa na to jak stabilnie SI trzyma broń (Wyższa wartość = mniej "kołysania" się broni).</Polish>
     <Russian>Влияет на то, насколько стабильно ИИ может держать оружие (чем выше значение, тем меньше раскачивание оружия).</Russian>
+    <Portuguese>Afcta o quão firmemente a IA pode segurar uma arma (Maior valor = menor oscilação da arma).</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIMINGSPEED_DISPLAYNAME">
     <English>Aiming Speed</English>
@@ -1109,6 +1118,7 @@
     <Chinese>瞄準速度</Chinese>
     <Polish>Szybkość celownia</Polish>
     <Russian>Скорость прицеливания</Russian>
+    <Portuguese>Velocidade da mira</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIMINGSPEED_TOOLTIP">
     <English>Affects how quickly the AI can rotate and stabilize its aim (Higher value = faster, less error).</English>
@@ -1121,6 +1131,7 @@
     <Chinese>影響AI轉向和瞄準目標的速度(數值越高=越快，誤差越小)。</Chinese>
     <Polish>Wpływa na to jak szybko SI może się obrócić i ustabilizować na celu (Wyższa wartość = szybciej, i efektywniej)</Polish>
     <Russian>Влияет на то, как быстро ИИ может вращаться и определить свою цель (чем выше значение, тем больше эффективность).</Russian>
+    <Portuguese>Afeta a rapidez com que a IA pode rodar e estabilizar a sua mira (Maior valor = mais rápido, menos erro).</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIMINGACCURACY_DISPLAYNAME">
     <English>Aiming Accuracy</English>
@@ -1133,6 +1144,7 @@
     <Chinese>瞄準精度</Chinese>
     <Polish>Precyzyjność celownia</Polish>
     <Russian>Точность прицеливания</Russian>
+    <Portuguese>Precisão da mira</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIMINGACCURACY_TOOLTIP">
     <English>Affects how precise an AI will shoot (Higher value = higher precision).</English>
@@ -1145,6 +1157,7 @@
     <Chinese>影響AI的精準度(數值越高=精度越高)。</Chinese>
     <Polish>Wpływa na to jak prezycyjnie SI będzie strzelało (Wyższa wartość = wyższa precyzja)</Polish>
     <Russian>Влияет на точность стрельбы ИИ (чем выше значение, тем выше точность).</Russian>
+    <Portuguese>Afeta a precisão com que uma IA disparará (Valor mais alto = maior precisão).</Portuguese>
   </Key>
   <Key ID="STR_ENH_COMMANDING_DISPLAYNAME">
     <English>Commanding</English>
@@ -1157,6 +1170,7 @@
     <Chinese>指揮係數</Chinese>
     <Polish>Dowodzenie</Polish>
     <Russian>Командир</Russian>
+    <Portuguese>Comandando</Portuguese>
   </Key>
   <Key ID="STR_ENH_COMMANDING_TOOLTIP">
     <English>Affects how quickly recognized targets are shared with the group (Higher value = faster reporting).</English>
@@ -1169,6 +1183,7 @@
     <Chinese>影響識別目標與向小組匯報的速度(數值越高=報告越快)。</Chinese>
     <Polish>Wpływa na to jak szybko SI rozpozna cel i podzięli się informacją z grupą (Wyższa wartość = szybsze informowanie)</Polish>
     <Russian>Влияет на то, как быстро распознанные цели передаются группе (чем выше значение, тем быстрее передача).</Russian>
+    <Portuguese>Afeta a rapidez com que os alvos reconhecidos são partilhados com o grupo (Maior valor = relatório mais rápido).</Portuguese>
   </Key>
   <Key ID="STR_ENH_COURAGE_DISPLAYNAME">
     <English>Courage</English>
@@ -1181,6 +1196,7 @@
     <Chinese>士氣</Chinese>
     <Polish>Odwaga</Polish>
     <Russian>Смелость</Russian>
+    <Portuguese>Coragem</Portuguese>
   </Key>
   <Key ID="STR_ENH_COURAGE_TOOLTIP">
     <English>Affects unit's subordinates' morale (Higher value = more courage).</English>
@@ -1193,6 +1209,7 @@
     <Chinese>影響下屬的士氣(數值越高=勇氣越大)。</Chinese>
     <Polish>Wpływa na morale podwładnych (Wyższa wartość = więcej odwagi)</Polish>
     <Russian>Влияет на моральное состояние подчиненных подразделения (чем выше значение, тем больше отвага).</Russian>
+    <Portuguese>Afeta a moral dos subordinados da unidade (Maior valor = mais coragem).</Portuguese>
   </Key>
   <Key ID="STR_ENH_GENERAL_DISPLAYNAME">
     <English>General</English>
@@ -1205,6 +1222,7 @@
     <Chinese>一般</Chinese>
     <Polish>Ogólne</Polish>
     <Russian>Генерал</Russian>
+    <Portuguese>General</Portuguese>
   </Key>
   <Key ID="STR_ENH_GENERAL_TOOLTIP">
     <English>Affects the AI's decision making.</English>
@@ -1217,6 +1235,7 @@
     <Chinese>影響AI的決策。</Chinese>
     <Polish>Wpływa na podejmowanie decyzji przez AI</Polish>
     <Russian>Влияет на принятие решений ИИ.</Russian>
+    <Portuguese>Afeta a tomada de decisões da IA.</Portuguese>
   </Key>
   <Key ID="STR_ENH_RELOADSPEED_DISPLAYNAME">
     <English>Reload Speed</English>
@@ -1229,6 +1248,7 @@
     <Chinese>換彈速度</Chinese>
     <Polish>Szybkość przeładowania</Polish>
     <Russian>Скорость перезарядки</Russian>
+    <Portuguese>Velocidade de Recarregamento</Portuguese>
   </Key>
   <Key ID="STR_ENH_RELOADSPEED_TOOLTIP">
     <English>Affects the delay between switching or reloading a weapon. (Higher value = less delay).</English>
@@ -1241,6 +1261,7 @@
     <Chinese>影響換彈或重新裝填武器彈藥之間的時長。(數值越高=時長越短)</Chinese>
     <Polish>Wpływa na opóźnienie pomiędzy zmianą lub przeładowaniem broni. (Wyższa wartość = mniejsze opóźnienie).</Polish>
     <Russian>Влияет на задержку между переключением или перезарядку оружия. (Более высокое значение = меньше задержки).</Russian>
+    <Portuguese>Afeta o atraso entre a troca ou o recarregamento de uma arma. (Valor mais alto = menos atraso).</Portuguese>
   </Key>
   <Key ID="STR_ENH_SPOTDISTANCE_DISPLAYNAME">
     <English>Spot Distance</English>
@@ -1253,6 +1274,7 @@
     <Chinese>發現距離</Chinese>
     <Polish>Zasięg wykrycia</Polish>
     <Russian>Дистанция обнаружения</Russian>
+    <Portuguese>Distância de reconhecimento</Portuguese>
   </Key>
   <Key ID="STR_ENH_SPOTDISTANCE_TOOLTIP">
     <English>Affects the AI's ability to spot targets within it is visual or audible range and also affects the accuracy of the information (Higher value = better spotting, more accurate information).</English>
@@ -1265,6 +1287,7 @@
     <Chinese>影響AI在視覺或聽覺範圍內識別目標的能力，也會影響信息的準確性(數值越高=定位越準，信息越準)。</Chinese>
     <Polish> Wpływa na zdolność SI do wykrycia celów w zasięgu wzroku czy dźwieku i także wpływa na dokładność tej informacji. </Polish>
     <Russian>Влияет на способность ИИ определять цели в пределах его визуального или слышимого диапазона, а также влияет на точность информации (чем выше значение, тем лучше определение, более точная информация).</Russian>
+    <Portuguese>Afeta a capacidade da IA de detetar alvos dentro do seu alcance visual ou sonoro e também afcta a precisão da informação (Maior valor = melhor deteção, informação mais precisa).</Portuguese>
   </Key>
   <Key ID="STR_ENH_SPOTTIME_DISPLAYNAME">
     <English>Spot Time</English>
@@ -1277,6 +1300,7 @@
     <Chinese>發現時間</Chinese>
     <Polish>Czas wykrycia</Polish>
     <Russian>Время обнаружения</Russian>
+    <Portuguese>Tempo de reconhecimento</Portuguese>
   </Key>
   <Key ID="STR_ENH_SPOTTIME_TOOLTIP">
     <English>Affects how quick the AI react to death, damage or observing an enemy (Higher value = quicker reaction).</English>
@@ -1289,6 +1313,7 @@
     <Chinese>影響AI對死亡、傷害或觀察敵人的反應速度(更高的數值=更快的反應)。</Chinese>
     <Polish>Wpływa na to jak szybko SI reaguje na śmierc, uszkodzenie czy zaobserwowanie przeciwnika (Wyższa wartość = szybsza reakcja).</Polish>
     <Russian>Влияет на то, как быстро ИИ реагирует на смерть, повреждение или наблюдение за врагом (чем выше значение, тем быстрее реакция).</Russian>
+    <Portuguese>Afeta a rapidez com que a IA reage à morte, dano ou observação de um inimigo (valor mais alto = reação mais rápida).</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_MINEDETECTION_DISPLAYNAME">
     <English>Mine Detection</English>
@@ -1301,6 +1326,7 @@
     <French>Détection de mines</French>
     <Polish>Wykrycie min</Polish>
     <Russian>Обнаружение мин</Russian>
+    <Portuguese>Deteção de minas</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_WEAPONAIM_DISPLAYNAME">
     <English>Weapon Aim</English>
@@ -1313,6 +1339,7 @@
     <French>But de l'arme</French>
     <Polish>Celowanie</Polish>
     <Russian>Прицеливание</Russian>
+    <Portuguese>Mira da arma</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_MOVE_DISPLAYNAME">
     <English>Move</English>
@@ -1325,6 +1352,7 @@
     <Chinese>移動</Chinese>
     <Polish>Ruch</Polish>
     <Russian>Движение</Russian>
+    <Portuguese>Movimento</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_MOVE_TOOLTIP">
     <English>Disables AI's ability to move.</English>
@@ -1337,6 +1365,7 @@
     <Chinese>禁用AI的移動能力</Chinese>
     <Polish>Wyłącza możliwość ruchu SI.</Polish>
     <Russian>Отключает способность ИИ двигаться.</Russian>
+    <Portuguese>Desabilita a capacidade da IA de se mover.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_TARGET_DISPLAYNAME">
     <English>Target</English>
@@ -1349,6 +1378,7 @@
     <Chinese>索敵</Chinese>
     <Polish>Wybieranie celów</Polish>
     <Russian>Цель</Russian>
+    <Portuguese>Alvo</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_TARGET_TOOLTIP">
     <English>Disables AI's ability to target.</English>
@@ -1361,6 +1391,7 @@
     <Chinese>禁用AI索敵能力</Chinese>
     <Polish>Wyłącza mozliwość celowania przez SI.</Polish>
     <Russian>Отключает внимание ИИ к цели.</Russian>
+    <Portuguese>Desactiva a capacidade da IA de apontar.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_COVER_DISPLAYNAME">
     <English>Cover</English>
@@ -1373,6 +1404,7 @@
     <Chinese>掩護</Chinese>
     <Polish>Krycie się</Polish>
     <Russian>Скрытность</Russian>
+    <Portuguese>Cobertura</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_COVER_TOOLTIP">
     <English>Disables AI's ability to take cover.</English>
@@ -1385,6 +1417,7 @@
     <Chinese>禁用AI掩護能力</Chinese>
     <Polish>Wyłącza możliwość krycia się przez SI.</Polish>
     <Russian>Отключает способность ИИ укрываться.</Russian>
+    <Portuguese>Desabilita a capacidade da IA de se cobrir.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_AUTOTARGET_DISPLAYNAME">
     <English>Autotarget</English>
@@ -1397,6 +1430,7 @@
     <Chinese>自動索敵</Chinese>
     <Polish>Automatyczny cel</Polish>
     <Russian>Автоматическое назначение цели</Russian>
+    <Portuguese>Alvo automático</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_AUTOTARGET_TOOLTIP">
     <English>Disables AI's ability automatically assign targets.</English>
@@ -1409,6 +1443,7 @@
     <Chinese>禁用AI自動分配目標能力</Chinese>
     <Polish>Wyłącza zdolność do automatycznego przydzielania celów przez SI.</Polish>
     <Russian>Отключает способность ИИ автоматически назначать цели.</Russian>
+    <Portuguese>Desabilita a capacidade da IA de atribuir alvos automaticamente.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_ANIM_TOOLTIP">
     <English>Disables animations.</English>
@@ -1421,6 +1456,7 @@
     <Chinese>禁用動畫</Chinese>
     <Polish>Wyłącza animacje.</Polish>
     <Russian>Отключает анимацию.</Russian>
+    <Portuguese>Desabilitar animações</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_ANIM_DISPLAYNAME">
     <English>Animation</English>
@@ -1433,6 +1469,7 @@
     <Chinese>動畫</Chinese>
     <Polish>Animacja</Polish>
     <Russian>Анимация</Russian>
+    <Portuguese>Animação</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_FSM_TOOLTIP">
     <English>Disable the execution of AI behaviour scripts.</English>
@@ -1445,6 +1482,7 @@
     <Chinese>禁用執行AI行為腳本</Chinese>
     <Polish>Wyłącza wykonywanie skryptów zachowawczych SI.</Polish>
     <Russian>Отключить выполнение скриптов поведения ИИ.</Russian>
+    <Portuguese>Desabilita a execução de scripts de comportamento de IA.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_AIMINGERROR_DISPLAYNAME">
     <English>Aiming Error</English>
@@ -1457,6 +1495,7 @@
     <Chinese>瞄準誤差</Chinese>
     <Polish>Błąd celowania</Polish>
     <Russian>Ошибка прицеливания</Russian>
+    <Portuguese>Erro de mira</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_AIMINGERROR_TOOLTIP">
     <English>Prevents AI's aiming from being distracted by its shooting, moving, turning, reloading, hit, injury, fatigue, suppression or concealed/lost target.</English>
@@ -1469,6 +1508,7 @@
     <Chinese>防止AI的瞄準被其射擊、移動、轉向、換彈、命中、受傷、疲勞、壓製或隱蔽/丟失目標所干擾。</Chinese>
     <Polish>Zapobiega SI przed byciem rozproszonym przez strzelanie, przemieszczanie, obracanie, przeładowywanie, rany, zmęczenie. przygwożdżenie czy utratą widoku na cel. </Polish>
     <Russian>Предотвращает отвлечение ИИ от цели из-за: прекращения стрельбы, перемещения, поворотов, перезарядки, удара, травмы, усталости, подавления или потери цели.</Russian>
+    <Portuguese>Impede que o alvo da IA seja distraído pelo seu tiroteio, movimento, viragem, recarga, golpe, ferimento, fadiga, supressão ou alvo escondido/perdido.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_TEAMSWITCH_DISPLAYNAME">
     <English>Team Switch</English>
@@ -1481,6 +1521,7 @@
     <Chinese>小隊切換</Chinese>
     <Polish>Zmiana strony</Polish>
     <Russian>Смена группы</Russian>
+    <Portuguese>Troca de equipa</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_TEAMSWITCH_TOOLTIP">
     <English>AI disabled because of Team Switch.</English>
@@ -1493,6 +1534,7 @@
     <Chinese>由於小隊切換，AI被禁用。</Chinese>
     <Polish>SI jest wyłączone z powodu "Zmiany strony".</Polish>
     <Russian>Отключает способность ИИ автоматически менять группу.</Russian>
+    <Portuguese>IA incapacitado por causa da troca de equipa.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_RAYCASTS_DISPLAYNAME">
     <English>Raycasts</English>
@@ -1505,6 +1547,7 @@
     <Chinese>信息共享</Chinese>
     <Polish>Dzielenie się informacjami.</Polish>
     <Russian>Обмен информацией.</Russian>
+    <Portuguese>Raycasts</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_RAYCASTS_TOOLTIP">
     <English>Disables visibility raycasts.</English>
@@ -1517,6 +1560,7 @@
     <Chinese>禁用AI敵情共享</Chinese>
     <Polish>Wyłącza zdolność SI do informowania swoich jednostek o wykrytych celach czy obiektach.</Polish>
     <Russian>Это исключает возможность ИИ информировать свои подразделения об обнаруженных целях или объектах.</Russian>
+    <Portuguese>Desativa os raios de visibilidade.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_SUPPRESSION_DISPLAYNAME">
     <English>Suppression</English>
@@ -1529,6 +1573,7 @@
     <Chinese>射擊壓制</Chinese>
     <Polish>Przygwożdżenie</Polish>
     <Russian>Подавление</Russian>
+    <Portuguese>Supressão</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_SUPPRESSION_TOOLTIP">
     <English>Prevents AI from being suppressed.</English>
@@ -1541,6 +1586,7 @@
     <Chinese>防止AI被射擊壓制</Chinese>
     <Polish>Zapobiega SI przed byciem przygwożdżonym.</Polish>
     <Russian>Предотвращает подавление ИИ.</Russian>
+    <Portuguese>Previne que a IA seja suprimida.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_AUTOCOMBAT_DISPLAYNAME">
     <English>Autocombat</English>
@@ -1553,6 +1599,7 @@
     <Chinese>自動戰鬥</Chinese>
     <Polish>Automatyczna walka</Polish>
     <Russian>Автоматический бой</Russian>
+    <Portuguese>Autocombate</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_PATH_DISPLAYNAME">
     <English>Path</English>
@@ -1565,6 +1612,7 @@
     <Chinese>路徑</Chinese>
     <Polish>Ścieżka</Polish>
     <Russian>Траектория</Russian>
+    <Portuguese>Localização</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_PATH_TOOLTIP">
     <English>Stops the AI’s movement but not the target alignment.</English>
@@ -1577,6 +1625,7 @@
     <Chinese>停止AI移動，但繼續索敵。</Chinese>
     <Polish>Zatrzymuje ruch SI ale nie celowanie.</Polish>
     <Russian>Останавливает движение ИИ, но не отключает цели.</Russian>
+    <Portuguese>Pára o movimento da IA mas não o alinhamento do alvo.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_AUTOCOMBAT_TOOLTIP">
     <English>Disables autonomous switching to COMBAT when in danger.</English>
@@ -1589,6 +1638,7 @@
     <Chinese>在危險時禁用自動切換到戰斗狀態。</Chinese>
     <Polish>Wyłącza automatyczną zmiane do "WALKI" w momencie zagrożenia.</Polish>
     <Russian>Отключает автоматическое переключение ИИ на «Опасно» в момент опасности.</Russian>
+    <Portuguese>Desabilita a mudança autónoma para COMBATE quando em perigo.</Portuguese>
   </Key>
   <Key ID="STR_ENH_ENGINEON_DISPLAYNAME">
     <English>Engine on/off</English>
@@ -1601,6 +1651,7 @@
     <Chinese>引擎 開/關</Chinese>
     <Polish>Silnik włączony/wyłączony</Polish>
     <Russian>Двигатель вкл/выкл</Russian>
+    <Portuguese>Motor ligado/desligado</Portuguese>
   </Key>
   <Key ID="STR_ENH_LIMITSPEED_DISPLAYNAME">
     <English>Speed Limit</English>
@@ -1613,6 +1664,7 @@
     <Chinese>限速</Chinese>
     <Polish>Limit prędkość</Polish>
     <Russian>Лимит скорости</Russian>
+    <Portuguese>Limite de velocidade</Portuguese>
   </Key>
   <Key ID="STR_ENH_LIMITSPEED_TOOLTIP">
     <English>Limit speed of given vehicle or person to given value (in km/h). Does only work for AI controlled vehicles.</English>
@@ -1625,6 +1677,7 @@
     <Chinese>限制指定的車輛或人的速度到給定值(km/h)。只適用於AI控制的車輛。</Chinese>
     <Polish>Limituje prędkość danego pojazdu lub osoby do danej wartości (w km/h). Działa tylko w pojazdach kontrolowanych przez SI.</Polish>
     <Russian>Ограничить скорость данного транспортного средства или человека до данного значения (в км / ч). Работает только для автомобилей, контролируемых ИИ.</Russian>
+    <Portuguese>Limitar a velocidade de um determinado veículo ou pessoa a um determinado valor (em km/h). Funciona apenas para veículos controlados por IA.</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAKEHOSTAGE_DISPLAYNAME">
     <English>Make Hostage</English>
@@ -1637,6 +1690,7 @@
     <Chinese>指定人質</Chinese>
     <Polish>Stwórz jako zakładnik</Polish>
     <Russian>Сделать заложником</Russian>
+    <Portuguese>Fazer refém</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAKEHOSTAGE_TOOLTIP">
     <English>Makes the unit a hostage and adds a 'Free Hostage' action. Whether the unit is still hostage can be checked with _unitName getVariable 'ENH_isHostage';</English>
@@ -1649,6 +1703,7 @@
     <Chinese>讓這個單位成為人質，並增加一個“解救人質”的動作菜單。該單位是否仍然是人質，可以用_unitName getVariable 'ENH_isHostage';來檢查。</Chinese>
     <Polish>Sprawia że jednostka staję się zakładnikiem i dodaje opcje 'Uwolnij zakładnika'. Czy jednostka jest dalej zakładnikiem można sprawdzić przy pomocy _unitName getVariable 'ENH_isHostage'; </Polish>
     <Russian>Делает юнит заложником и добавляет действие «Освободить заложника». Остаётся ли объект заложником, можно проверить с помощью _unitName getVariable 'ENH_isHostage';</Russian>
+    <Portuguese>Faz da unidade um refém e acrescenta uma acção "Refém Livre". Se a unidade ainda é refém pode ser verificada com _unitName getVariable 'ENH_isHostage';</Portuguese>
   </Key>
   <Key ID="STR_ENH_UNITTRAITS_MEDIC_DISPLAYNAME">
     <English>Is Medic?</English>
@@ -1661,6 +1716,7 @@
     <Chinese>是否是醫療兵？</Chinese>
     <Polish>Jest medykiem?</Polish>
     <Russian>Он медик?</Russian>
+    <Portuguese>É médico?</Portuguese>
   </Key>
   <Key ID="STR_ENH_UNITTRAITS_MEDIC_TOOLTIP">
     <English>Defines whether the unit can fully heal other units.</English>
@@ -1673,6 +1729,7 @@
     <Chinese>設定該單位能否治愈其他單位</Chinese>
     <Polish>Definiuje czy jednostka może w pełni leczyć inne jednostki.</Polish>
     <Russian>Определяет, может ли юнит полностью лечить других юнитов.</Russian>
+    <Portuguese>Define se a unidade pode curar completamente outras unidades.</Portuguese>
   </Key>
   <Key ID="STR_ENH_UNITTRAITS_ENGINEER_DISPLAYNAME">
     <English>Is Engineer?</English>
@@ -1685,6 +1742,7 @@
     <Chinese>是否是工兵？</Chinese>
     <Polish>Jest inżynierem?</Polish>
     <Russian>Он инженер?</Russian>
+    <Portuguese>É engenheiro?</Portuguese>
   </Key>
   <Key ID="STR_ENH_UNITTRAITS_ENGINEER_TOOLTIP">
     <English>Defines whether or not the unit can repair vehicles.</English>
@@ -1697,6 +1755,7 @@
     <Chinese>設定該單位能否維修車輛。</Chinese>
     <Polish>Definiuje czy jednostka może lub nie naprawiać pojazdy</Polish>
     <Russian>Определяет, может ли юнит ремонтировать автомобили.</Russian>
+    <Portuguese>Define se a unidade pode ou não reparar veículos.</Portuguese>
   </Key>
   <Key ID="STR_ENH_UNITTRAITS_EXPLOSIVESPECIALIST_DISPLAYNAME">
     <English>Is Explosive Specialist?</English>
@@ -1709,6 +1768,7 @@
     <Chinese>是否是爆破兵？</Chinese>
     <Polish>Jest saperem?</Polish>
     <Russian>Он сапер?</Russian>
+    <Portuguese>É um especialista em explosivos?</Portuguese>
   </Key>
   <Key ID="STR_ENH_UNITTRAITS_EXPLOSIVESPECIALIST_TOOLTIP">
     <English>Defines whether the unit can defuse explosives.</English>
@@ -1721,6 +1781,7 @@
     <Chinese>設定該單位能否拆除爆炸物。</Chinese>
     <Polish>Definiuje czy jednostka może rozbrajać ładunki wybuchowe.</Polish>
     <Russian>Определяет, может ли юнит обезвредить взрывчатку.</Russian>
+    <Portuguese>Define se a unidade pode desativar explosivos.</Portuguese>
   </Key>
   <Key ID="STR_ENH_UNITTRAITS_UAVHACKER_DISPLAYNAME">
     <English>Is UAV Hacker?</English>
@@ -1733,6 +1794,7 @@
     <Chinese>是否是無人機操作員？</Chinese>
     <Polish>Czy jest hakerem BSP?</Polish>
     <Russian>Он БПЛА хакер?</Russian>
+    <Portuguese>É Hacker UAV?</Portuguese>
   </Key>
   <Key ID="STR_ENH_UNITTRAITS_UAVHACKER_TOOLTIP">
     <English>Defines whether the unit can hack hostile UAVs.</English>
@@ -1745,6 +1807,7 @@
     <Chinese>設定該單位能否操作無人機。</Chinese>
     <Polish>Definiuje czy jednostka może hakować wrogie BSP.</Polish>
     <Russian>Определяет, может ли юнит взломать вражеские беспилотники.</Russian>
+    <Portuguese>Define se a unidade pode piratear UAVs hostis.</Portuguese>
   </Key>
   <Key ID="STR_ENH_CAMOUFLAGECOEF_DISPLAYNAME">
     <English>Camouflage Coefficent</English>
@@ -1757,6 +1820,7 @@
     <Chinese>偽裝係數</Chinese>
     <Polish>Współczynnik kamuflażu</Polish>
     <Russian>Эффективность камуфляжа</Russian>
+    <Portuguese>Coeficiente de Camuflagem</Portuguese>
   </Key>
   <Key ID="STR_ENH_CAMOUFLAGECOEF_TOOLTIP">
     <English>The camouflage coefficent determines how easy an unit can be spotted by AI. A lower value means it is more difficult to spot it.</English>
@@ -1769,6 +1833,7 @@
     <Chinese>偽裝係數決定了一個單位有多容易被AI發現。較低的數值意味著更難以發現。</Chinese>
     <Polish>Współczynnik kamuflażu określa jak łatwo jednostka może być wykryta przez SI. Mniejsza wartość oznacz iż jednostka jest trudniejsza do wykrycia.</Polish>
     <Russian>Эффективность камуфляжа определяет, насколько легко ИИ может обнаружить единицу. Чем ниже значение, тем сложнее его обнаружить.</Russian>
+    <Portuguese>O coeficiente de camuflagem determina a facilidade com que uma unidade pode ser detetada pela IA. Um valor mais baixo significa que é mais difícil localizá-la.</Portuguese>
   </Key>
   <Key ID="STR_ENH_AUDIBLECOEF_DISPLAYNAME">
     <English>Audible Coefficient</English>
@@ -1781,6 +1846,7 @@
     <Chinese>聽力係數</Chinese>
     <Polish>Współczynnik słyszalności</Polish>
     <Russian>Уровень слышимости</Russian>
+    <Portuguese>Coeficiente Audível</Portuguese>
   </Key>
   <Key ID="STR_ENH_AUDIBLECOEF_TOOLTIP">
     <English>The audible coefficient determines how easy a unit can be heard by AI. A lower value means it is more difficult to hear it.</English>
@@ -1793,6 +1859,7 @@
     <Chinese>聽力係數決定了一個單位的行動有多容易被AI所聽到。較低的數值代表著更難以聽到。</Chinese>
     <Polish>Współczynnik słyszalności określa jak łatwo SI może usłyszeć gracza. Im mniejsza wartość tym trudniej usłyszeć gracza. </Polish>
     <Russian>Уровень слышимости определяет, насколько легко устройство может быть услышано ИИ. Чем ниже значение, тем сложнее его услышать.</Russian>
+    <Portuguese>O coeficiente audível determina a facilidade com que uma unidade pode ser ouvida pela IA. Um valor mais baixo significa que é mais difícil ouvi-lo.</Portuguese>
   </Key>
   <Key ID="STR_ENH_LOADCOEF_DISPLAYNAME">
     <English>Load Coefficient</English>
@@ -1805,6 +1872,7 @@
     <Chinese>負重係數</Chinese>
     <Polish>Wpływ obciążenia</Polish>
     <Russian>Коэффицент выносливости</Russian>
+    <Portuguese>Coeficiente de Carga</Portuguese>
   </Key>
   <Key ID="STR_ENH_LOADCOEF_TOOLTIP">
     <English>The load coefficient determines how much influence the unit's loadout weight has on it is stamina. A higher value means the weight has a higher influence.</English>
@@ -1817,6 +1885,7 @@
     <Chinese>負重係數決定了單位的負重對其耐力有多大的影響。較高的數值意味著負重具有更大的影響力。</Chinese>
     <Polish>Wpływ obciążenia ustala jak duży wpływ ma waga na stamine jednostki. Wyższa wartość oznacza większy wpływ wagi na stamine.</Polish>
     <Russian>Коэффицент выносливости определяет, насколько сильно вес снаряжения влияет на персонажа. Чем выше значение, тем больше влияния вес влияет на выносливость</Russian>
+    <Portuguese>O coeficiente de carga determina quanta influência tem sobre o peso de carga da unidade é a sua resistência. Um valor mais elevado significa que o peso tem uma influência mais elevada.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLENVGEQUIPMENT_TOOLTIP">
     <English>If enabled, night vision optics can no longer be used.</English>
@@ -1829,6 +1898,7 @@
     <Chinesesimp>如果启用，夜视装备便无法使用。</Chinesesimp>
     <Chinese>如果啟用，夜視裝備便無法使用。</Chinese>
     <Polish>Jeżeli włączone, optyka noktowizyjna nie może być używana.</Polish>
+    <Portuguese>Se ativada, a ótica de visão noturna já não pode ser utilizada.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLENVGEQUIPMENT_DISPLAYNAME">
     <English>Disable NVG Equipment</English>
@@ -1841,6 +1911,7 @@
     <Chinese>禁用夜視裝備</Chinese>
     <Polish>Wyłącza wyposażenie noktowizyjne</Polish>
     <Russian>Отлючить ПНВ</Russian>
+    <Portuguese>Desativar equipamento NVG</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLETIEQUIPMENT_DISPLAYNAME">
     <English>Disable Thermal Optics</English>
@@ -1853,6 +1924,7 @@
     <Chinesesimp>禁用热成像</Chinesesimp>
     <Chinese>禁用熱成像</Chinese>
     <Polish>Wyłącza optyke termowizyjną</Polish>
+    <Portuguese>Desativar a Ótica Térmica</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLETIEQUIPMENT_TOOLTIP">
     <English>If enabled, thermal optics can no longer be used.</English>
@@ -1865,6 +1937,7 @@
     <Chinesesimp>如果启用，热成像便无法使用。</Chinesesimp>
     <Chinese>如果啟用，熱成像便無法使用。</Chinese>
     <Polish>Jeżeli włączone, optyka termowizyjna nie może być używana.</Polish>
+    <Portuguese>Se ativada, a ótica térmica já não pode ser utilizada.</Portuguese>
   </Key>
   <Key ID="STR_ENH_ALLOWFLEEING_DISPLAYNAME">
     <English>Fleeing Coefficient</English>
@@ -1877,6 +1950,7 @@
     <Chinese>膽怯係數</Chinese>
     <Polish>Tchórzostwo</Polish>
     <Russian>Трусость</Russian>
+    <Portuguese>Coeficiente de Fuga</Portuguese>
   </Key>
   <Key ID="STR_ENH_ALLOWFLEEING_TOOLTIP">
     <English>Sets the cowardice level (the lack of courage or bravery) of the unit. The more cowardice the unit has, the sooner it will start fleeing. 0 means maximum courage, while 1 means always fleeing.</English>
@@ -1889,6 +1963,7 @@
     <Chinese>設置單位的膽怯程度(缺乏勇氣或膽量)。單位越膽怯，就越早開始逃跑。 0意味著最大的勇氣，而1意味著總是逃避。</Chinese>
     <Polish>Ustawia poziom tchórzostwa (niedostatek odwagi czy męstwa) jednostki. Im więcej tchórzostwa posiada jednostka tym wcześniej zaczną uciekać. 0 oznacza maksymalną odwage, a 1 minimalną, czyli zawsze będą uciekać.</Polish>
     <Russian>Устанавливает уровень трусости (отсутствие смелости или храбрости) отряда. Чем больше трусости имеет подразделение, тем скорее оно начнет убегать. 0 означает максимальную смелость, а при выборе 1 ИИ будет всегда убегать.</Russian>
+    <Portuguese>Define o nível de cobardia (a falta de coragem ou bravura) da unidade. Quanto mais cobardia a unidade tiver, mais cedo começará a fugir. 0 significa coragem máxima, enquanto 1 significa sempre fugir.</Portuguese>
   </Key>
   <Key ID="STR_ENH_ATTACHTO_DISPLAYNAME">
     <English>Attach</English>
@@ -1896,6 +1971,7 @@
     <German>Befestigen</German>
     <Chinesesimp>附加</Chinesesimp>
     <Chinese>附加</Chinese>
+    <Portuguese>Anexar</Portuguese>
   </Key>
   <Key ID="STR_ENH_ATTACHTO_TOOLTIP">
     <English>Attaches this object to the closest object.</English>
@@ -1903,6 +1979,7 @@
     <German>Befestigt dieses Objekt an dem nächstgelegensten Objekt.</German>
     <Chinesesimp>将此对象附加到最近的对象上。</Chinesesimp>
     <Chinese>將此對象附加到最近的對像上。</Chinese>
+    <Portuguese>Prende este objeto ao objeto mais próximo.</Portuguese>
   </Key>
   <Key ID="STR_ENH_SETMASS_DISPLAYNAME">
     <English>Unladen Weight</English>
@@ -1915,6 +1992,7 @@
     <Chinese>自重</Chinese>
     <Polish>Waga własna</Polish>
     <Russian>Собственный вес</Russian>
+    <Portuguese>Peso sem carga</Portuguese>
   </Key>
   <Key ID="STR_ENH_SETMASS_TOOLTIP">
     <English>Change the original mass value from 0% - 100%. Keep in mind that too low values can cause unwanted behaviour.</English>
@@ -1927,6 +2005,7 @@
     <Chinese>0% - 100%調節原始重量。請記住，太低的值可能會導致不必要的狀態。</Chinese>
     <Polish>Zmienia oryginalną wartość wagi od 0% - 100%. Pamietaj że zbyt mała wartość może przynieść niechciane zachowania. </Polish>
     <Russian>Измените исходное значение массы от 0% до 100%. Имейте в виду, что слишком низкие значения могут вызвать нежелательное поведение.</Russian>
+    <Portuguese>Alterar o valor original da massa de 0% - 100%. Ter em mente que valores demasiado baixos podem causar comportamentos indesejados.</Portuguese>
   </Key>
   <Key ID="STR_ENH_FORCEWALK_DISPLAYNAME">
     <English>Force Walking</English>
