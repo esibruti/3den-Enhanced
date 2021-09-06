@@ -10,7 +10,7 @@
     <Chinese>語音音量</Chinese>
     <Polish>Głośność dźwieku</Polish>
     <Italian>Volume (suono)</Italian>
-    <Portuguese>Volume (som)</Portuguese>
+    <Portuguese>Volume (Som)</Portuguese>
     <Russian>Громкость (звук)</Russian>
   </Key>
   <Key ID="STR_ENH_ATTRIBUTECATEGORY_DYNAMICSKILL">
@@ -24,6 +24,7 @@
     <Russian>Динамические настройки искусственного интеллекта</Russian>
     <Chinesesimp>动态AI技能设置</Chinesesimp>
     <Chinese>動態AI技能設置</Chinese>
+    <Portuguese>Definições Dinâmica de Habilidade AI</Portuguese>
   </Key>
   <Key ID="STR_ENH_NOTIFICATIONS_GETPYTHIA">
     <English>Get the ""Pythia"" modification from the Steam Workshop!</English>
@@ -31,6 +32,7 @@
     <German>Hol dir die ""Pythia"" Modifikation aus dem Steam Workshop!</German>
     <Chinesesimp>从Steam创意工坊获得""Pythia""修改！</Chinesesimp>
     <Chinese>從Steam創意工坊獲得""Pythia""修改！</Chinese>
+    <Portuguese>Obtenha a modificação ""Pythia"" na Steam Workshop!</Portuguese>
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_BLUFORSKILL_DISPLAYNAME">
     <English>BLUFOR Skill Settings</English>
@@ -43,6 +45,7 @@
     <Russian>Настройки навыков BLUFOR</Russian>
     <Chinesesimp>BLUFOR技能设置</Chinesesimp>
     <Chinese>BLUFOR技能設置</Chinese>
+    <Portuguese>Definições de Habilidade BLUFOR</Portuguese>
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_SKILLMIN_DISPLAYNAME">
     <English>Min. Skill</English>
@@ -55,6 +58,7 @@
     <Russian>Минимальный навык</Russian>
     <Chinesesimp>最低技能</Chinesesimp>
     <Chinese>最低技能</Chinese>
+    <Portuguese>Min. Habilidade</Portuguese>
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_SKILLAIMMIN_DISPLAYNAME">
     <English>Min. Aiming Skill</English>
@@ -67,6 +71,7 @@
     <Russian>Минимальный навык прицеливания</Russian>
     <Chinesesimp>最低精度</Chinesesimp>
     <Chinese>最低精度</Chinese>
+    <Portuguese>Min. Habilidade de Apontamento</Portuguese>
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_SKILLMAX_DISPLAYNAME">
     <English>Max. Skill</English>
@@ -79,6 +84,7 @@
     <Russian>Максимальный навык</Russian>
     <Chinesesimp>最高技能</Chinesesimp>
     <Chinese>最高技能</Chinese>
+    <Portuguese>Máx. Habilidade</Portuguese>
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_SKILLAIMMAX_DISPLAYNAME">
     <English>Max. Aiming Skill</English>
@@ -91,6 +97,7 @@
     <Russian>Максимальный навык прицеливания</Russian>
     <Chinesesimp>最高精度</Chinesesimp>
     <Chinese>最高精度</Chinese>
+    <Portuguese>Máx. Habilidade de Apontamento</Portuguese>
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_OPFORSKILL_DISPLAYNAME">
     <English>OPFOR Skill Settings</English>
@@ -103,6 +110,7 @@
     <Russian>Настройки навыков OPFOR</Russian>
     <Chinesesimp>OPFOR技能设置</Chinesesimp>
     <Chinese>OPFOR技能設置</Chinese>
+    <Portuguese>Definições de Habilidade OPFOR</Portuguese>
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_INDFORSKILL_DISPLAYNAME">
     <English>INDFOR Skill Settings</English>
@@ -115,6 +123,7 @@
     <Russian>Настройки навыков INDFOR</Russian>
     <Chinesesimp>独立部队技能设置</Chinesesimp>
     <Chinese>獨立部隊技能設置</Chinese>
+    <Portuguese>Definições de Habilidade INDFOR</Portuguese>
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_DESCRIPTION">
     <English>Calculates AI skill based on player count and set base values. Skill will be dynamically changed when a player connects or disconnects. Works for up to four players only!</English>
@@ -127,6 +136,7 @@
     <Russian>Рассчитывает искусственный интеллект на основе количества игроков и устанавливет базовые значения. Навык будет динамически меняться, когда игрок подключается или отключается.</Russian>
     <Chinesesimp>根据玩家人数来计算AI技能并设置基础值。 当玩家连接或断开连接时，技能将动态变化。 最多适用于四名玩家！</Chinesesimp>
     <Chinese>根據玩家人數來計算AI技能並設置基礎值。當玩家連接或斷開連接時，技能將動態變化。最多適用於四名玩家！</Chinese>
+    <Portuguese>Calcula a capacidade de IA com base na contagem de jogadores e estabelece valores base. A habilidade será dinamicamente alterada quando um jogador se liga ou desliga. Funciona apenas para um máximo de quatro jogadores!</Portuguese>
   </Key>
   <Key ID="STR_ENH_MUSICVOLUME_DISPLAYNAME">
     <English>Volume (Music)</English>
@@ -139,6 +149,7 @@
     <Chinese>音樂音量</Chinese>
     <Polish>Głośność muzyki</Polish>
     <Russian>Громкость музыки</Russian>
+    <Portuguese>Volume (Música)</Portuguese>
   </Key>
   <Key ID="STR_ENH_TOOLS_CREATETRIGGER">
     <English>Create Trigger (Whole Map Coverage)</English>
@@ -147,6 +158,7 @@
     <Spanish>Crear activador (Covertura completa del mapa)</Spanish>
     <Chinesesimp>创建触发器(全地图覆盖)</Chinesesimp>
     <Chinese>創建觸發器(全地圖覆蓋)</Chinese>
+    <Portuguese>Criar Trigger (Cobertura de todo o mapa)</Portuguese>
   </Key>
   <Key ID="STR_ENH_TERRAINDETAIL_DISPLAYNAME">
     <English>Terrain Detail</English>
@@ -159,6 +171,7 @@
     <Polish>Szczegóły Terenu</Polish>
     <Chinesesimp>地形细节</Chinesesimp>
     <Chinese>地形細節</Chinese>
+    <Portuguese>Detalhe do Terreno</Portuguese>
   </Key>
   <Key ID="STR_ENH_RADIOVOLUME_DISPLAYNAME">
     <English>Volume (Radio)</English>
@@ -171,6 +184,7 @@
     <Chinese>無線電音量</Chinese>
     <Polish>Głośność radia</Polish>
     <Russian>Громкость радио</Russian>
+    <Portuguese>Volume (Rádio)</Portuguese>
   </Key>
   <Key ID="STR_ENH_RANDOMMUSIC_DISPLAYNAME">
     <English>Random Music</English>
@@ -183,6 +197,7 @@
     <Chinese>隨機音樂</Chinese>
     <Polish>Losowa muzyka</Polish>
     <Russian>Случайная музыка</Russian>
+    <Portuguese>Música Aleatória</Portuguese>
   </Key>
   <Key ID="STR_ENH_TOOLS_REMOVEGEAR">
     <English>Remove Everything</English>
@@ -190,6 +205,7 @@
     <German>Alles entfernen</German>
     <Chinesesimp>移除一切</Chinesesimp>
     <Chinese>移除一切</Chinese>
+    <Portuguese>Remover tudo</Portuguese>
   </Key>
   <Key ID="STR_ENH_RANDOMMUSIC_TOOLTIP">
     <English>Will play randomly selected music at mission start. Input must look as follows: Classname_1 Classname_2 Classname_3 Classname_n.</English>
@@ -202,6 +218,7 @@
     <Chinese>將在任務開始時隨機播放選定的音樂。輸入必須如下:Classname_1、Classname_2、Classname_3、Classname_n。以此類推</Chinese>
     <Polish>Będzie grało losowo wybraną muzyke podczas startu misji. Kod musi wyglądać następująco: Classname_1 Classname_2 Classname_3 Classname_n.</Polish>
     <Russian>Будет играть случайно выбранную музыку в начале миссии. Входные данные должны выглядеть следующим образом: Classname_1 Classname_2 Classname_3 Classname_n.</Russian>
+    <Portuguese>Reproduzirá música selecionada aleatoriamente no início da missão. A entrada deve ter a seguinte aparência: Classname_1 Classname_2 Classname_3 Classname_n.</Portuguese>
   </Key>
   <Key ID="STR_ENH_TOOLS_REMOVENVGS">
     <English>Remove NVGs</English>
@@ -214,6 +231,7 @@
     <French>Supprimer les JVNs</French>
     <Polish>Usuń noktowizje</Polish>
     <Russian>Удалить ПНВ</Russian>
+    <Portuguese>Retirar os NVG</Portuguese>
   </Key>
   <Key ID="STR_ENH_TOOLS_EXPORTMISSIONPARAMETERS">
     <English>Export Mission Parameters</English>
@@ -225,6 +243,7 @@
     <Polish>Wyeksportuj parametry misji</Polish>
     <Chinesesimp>导出任务参数</Chinesesimp>
     <Chinese>導出任務參數</Chinese>
+    <Portuguese>Exportar os parâmetros de missão</Portuguese>
   </Key>
   <Key ID="STR_ENH_TOOLS_REMOVEVESTS">
     <English>Remove Vests</English>
@@ -237,6 +256,7 @@
     <Czech>Odstranit vesty</Czech>
     <French>Retirer les gilets</French>
     <Polish>Usuń kamizelki</Polish>
+    <Portuguese>Retirar coletes</Portuguese>
   </Key>
   <Key ID="STR_ENH_CONTEXTMENU_LOG3DENIDS">
     <English>Log 3DEN Entity IDs to Clipboard</English>
@@ -249,6 +269,7 @@
     <Polish>Zapisz ID bytu 3DEN do schowka</Polish>
     <Spanish>Registrar IDs de la entidad al portapapeles.</Spanish>
     <Russian>Скопировать ID объектов 3DEN в буфер обмена</Russian>
+    <Portuguese>Copiar IDs das entidades 3DEN para a área de transferência</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_BATCHREPLACE_ERROR">
     <English>No valid Classname!</English>
@@ -261,6 +282,7 @@
     <Spanish>¡Classname no valido!</Spanish>
     <Chinesesimp>无效的Classname！</Chinesesimp>
     <Chinese>無效的Classname！</Chinese>
+    <Portuguese>Classname inválida!</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_FILLTEXTURELB_TOOLTIP">
     <English>Copy path with 'CTRL + C'.</English>
@@ -273,6 +295,7 @@
     <Russian>Скопируйте путь с помощью CTRL + C.</Russian>
     <Chinesesimp>使用'CTRL + C'复制路径.</Chinesesimp>
     <Chinese>使用'CTRL + C'複製路徑.</Chinese>
+    <Portuguese>Copia localização com 'CTRL + C'.</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_NAME">
     <English>NAME:</English>
@@ -285,6 +308,7 @@
     <Russian>Имя:</Russian>
     <Chinesesimp>名称:</Chinesesimp>
     <Chinese>名稱:</Chinese>
+    <Portuguese>NOME:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_CLASS">
     <English>CLASS:</English>
@@ -297,6 +321,7 @@
     <Russian>Класс:</Russian>
     <Chinesesimp>CLASS:</Chinesesimp>
     <Chinese>CLASS:</Chinese>
+    <Portuguese>CLASSE:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_VEHICLECLASS">
     <English>VEHICLE CLASS:</English>
@@ -309,6 +334,7 @@
     <Russian>Класс Автомобиля</Russian>
     <Chinesesimp>车辆CLASS:</Chinesesimp>
     <Chinese>車輛CLASS:</Chinese>
+    <Portuguese>CLASSE DO VEÍCULO:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_KINDOF">
     <English>KIND OF:</English>
@@ -321,6 +347,7 @@
     <Spanish>TIPO DE:</Spanish>
     <Chinesesimp>类型:</Chinesesimp>
     <Chinese>類型:</Chinese>
+    <Portuguese>TIPO DE:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_SIZE">
     <English>SIZE (Width, Length, Height):</English>
@@ -333,6 +360,7 @@
     <Russian>Размер (ширина, длина, высота):</Russian>
     <Chinesesimp>尺寸(长宽高) :</Chinesesimp>
     <Chinese>尺寸(長寬高) :</Chinese>
+    <Portuguese>TAMANHO (Largura, Comprimento, Altura):</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_SELECTIONNAMES">
     <English>SELECTION NAMES:</English>
@@ -345,6 +373,7 @@
     <Polish>WYBRANE NAZWY:</Polish>
     <Chinesesimp>选择名称:</Chinesesimp>
     <Chinese>選擇名稱:</Chinese>
+    <Portuguese>NOMES DE SELEÇÃO:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_PARENTS">
     <English>PARENTS:</English>
@@ -357,6 +386,7 @@
     <Spanish>PADRES:</Spanish>
     <Chinesesimp>父母:</Chinesesimp>
     <Chinese>父母:</Chinese>
+    <Portuguese>PARENTES:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_OBJECTTYPE">
     <English>OBJECT TYPE:</English>
@@ -369,6 +399,7 @@
     <Russian>Тип объекта:</Russian>
     <Chinesesimp>对象类型:</Chinesesimp>
     <Chinese>對像類型:</Chinese>
+    <Portuguese>TIPO DE OBJETO:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_MATERIALS">
     <English>MATERIALS:</English>
@@ -381,6 +412,7 @@
     <Russian>Материал:</Russian>
     <Chinesesimp>材料：</Chinesesimp>
     <Chinese>材料：</Chinese>
+    <Portuguese>MATERIAIS:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_MODELINFO">
     <English>MODEL INFO:</English>
@@ -393,6 +425,7 @@
     <Russian>Информация о модели:</Russian>
     <Chinesesimp>Mod信息：</Chinesesimp>
     <Chinese>Mod信息：</Chinese>
+    <Portuguese>INFO DO MODELO:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_TEXTURES">
     <English>TEXTURES:</English>
@@ -405,6 +438,7 @@
     <Russian>Текстура:</Russian>
     <Chinesesimp>纹理:</Chinesesimp>
     <Chinese>紋理:</Chinese>
+    <Portuguese>TEXTURAS:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_ANIMATIONNAMES">
     <English>ANIMATION NAMES:</English>
@@ -417,6 +451,7 @@
     <Russian>Название анимации:</Russian>
     <Chinesesimp>动画名称:</Chinesesimp>
     <Chinese>動畫名稱:</Chinese>
+    <Portuguese>NOMES DE ANIMAÇÃO:</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_PRIMARY">
     <English>Normal object placed in Visitor, part of landscape</English>
@@ -429,6 +464,7 @@
     <Polish>Obiekty postawione w edytorze map, część krajobrazu:</Polish>
     <Chinesesimp>地图编辑器中放置的常规对象，作为景观的一部分</Chinesesimp>
     <Chinese>地圖編輯器中放置的常規對象，作為景觀的一部分</Chinese>
+    <Portuguese>Objeto normal colocado no Visitor, parte da paisagem</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_NETWORK">
     <English>Road placed in Visitor, part of landscape</English>
@@ -441,6 +477,7 @@
     <Polish>Drogi postawione w edytorze map, część krajobrazu:</Polish>
     <Chinesesimp>地图编辑器中放置的道路，作为景观的一部分</Chinesesimp>
     <Chinese>地圖編輯器中放置的道路，作為景觀的一部分</Chinese>
+    <Portuguese>Estrada colocada em Visitor, parte da paisagem</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_TEMPORARY">
     <English>Temporary object (like tracks)</English>
@@ -453,6 +490,7 @@
     <Polish>Obiekty tymczasowe(np. ślady opon)</Polish>
     <Chinesesimp>临时物体（如轨道）</Chinesesimp>
     <Chinese>臨時物體（如軌道）</Chinese>
+    <Portuguese>Objeto temporário (como pistas)</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_TYPEVEHICLE">
     <English>Some entity added by game</English>
@@ -465,6 +503,7 @@
     <Polish>Obiekty dodane przez grę</Polish>
     <Chinesesimp>游戏中添加的某些实体</Chinesesimp>
     <Chinese>遊戲中添加的某些實體</Chinese>
+    <Portuguese>Alguma entidade acrescentada por jogo</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_TYPETEMPVEHICLE">
     <English>Temporary entity</English>
@@ -477,6 +516,7 @@
     <Polish>Obiekty tymczasowe</Polish>
     <Chinesesimp>临时实体</Chinesesimp>
     <Chinese>臨時實體</Chinese>
+    <Portuguese>Entidade temporária</Portuguese>
   </Key>
   <Key ID="STR_ENH_FUNCTIONS_LOGOBJECTINFO_LANDDECAL">
     <English>Land decal</English>
@@ -489,6 +529,7 @@
     <Polish>Tekstura widoczna na ziemii</Polish>
     <Chinesesimp>地面贴图</Chinesesimp>
     <Chinese>地面貼圖</Chinese>
+    <Portuguese>Decalque de terra</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIRDROP_CLASSES_DISPLAYNAME">
     <English>Classes</English>
@@ -501,6 +542,7 @@
     <Russian>Классы</Russian>
     <Chinesesimp>Classes</Chinesesimp>
     <Chinese>Classes</Chinese>
+    <Portuguese>Classes</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIRDROP_CONDITION_DISPLAYNAME">
     <English>Condition</English>
@@ -526,6 +568,7 @@
     <Spanish>Posición centrada</Spanish>
     <Polish>Pozycja zrzutu</Polish>
     <Russian>Центральная позиция</Russian>
+    <Portuguese>Posição central</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIRDROP_RADIUS_DISPLAYNAME">
     <English>Area Radius</English>
@@ -538,6 +581,7 @@
     <Spanish>Radio del área</Spanish>
     <Polish>Promień strefy</Polish>
     <Russian>Радиус зоны</Russian>
+    <Portuguese>Raio da área</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIRDROP_CENTER_TOOLTIP">
     <English>Center of the drop zone.</English>
@@ -550,6 +594,7 @@
     <Russian>Центр зоны сброса.</Russian>
     <Chinesesimp>投放区中心.</Chinesesimp>
     <Chinese>投放區中心</Chinese>
+    <Portuguese>Centro da zona de queda.</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIRDROP_RADIUS_TOOLTIP">
     <English>Radius of the drop zone in metres.</English>
@@ -562,6 +607,7 @@
     <Russian>Радиус зоны сброса в метрах.</Russian>
     <Chinesesimp>投放区半径(米)</Chinesesimp>
     <Chinese>投放區半徑(米)</Chinese>
+    <Portuguese>Raio da zona de queda em metros.</Portuguese>
   </Key>
   <Key ID="STR_ENH_AIRDROP_DISPLAYNAME">
     <English>Airdrop</English>
@@ -574,6 +620,7 @@
     <Russian>Выброска десанта</Russian>
     <Chinesesimp>空投</Chinesesimp>
     <Chinese>空投</Chinese>
+    <Portuguese>Airdrop</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_NVG_DISPLAYNAME">
     <English>Night Vision Goggles</English>
@@ -586,6 +633,7 @@
     <Russian>Прибор ночного видения</Russian>
     <Chinesesimp>夜视仪</Chinesesimp>
     <Chinese>夜視儀</Chinese>
+    <Portuguese>Óculos de visão noturna</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_ALL_DISPLAYNAME">
     <English>All Features</English>
@@ -598,6 +646,7 @@
     <German>Deaktiviert alle, inklusive der nachfolgenden, Funktionen.</German>
     <Chinesesimp>禁用所有功能，但不包括以下功能。</Chinesesimp>
     <Chinese>禁用所有功能，但不包括以下功能。</Chinese>
+    <Portuguese>Desativa todas as características, excluindo as que se seguem.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DISABLEAI_LIGHTS_DISPLAYNAME">
     <English>Lights</English>
@@ -610,6 +659,7 @@
     <Russian>Источник света</Russian>
     <Chinesesimp>灯光</Chinesesimp>
     <Chinese>燈光</Chinese>
+    <Portuguese>Luzes</Portuguese>
   </Key>
   <Key ID="STR_ENH_TOOLS_GENERATESTEAMMISSIONDESCRIPTION">
     <English>Generate Steam Mission Description</English>
@@ -622,6 +672,7 @@
     <Russian>Создать описание миссии в Steam</Russian>
     <Chinesesimp>生成Steam任务说明</Chinesesimp>
     <Chinese>生成Steam任務說明</Chinese>
+    <Portuguese>Gerar descrição da Missão Steam</Portuguese>
   </Key>
   <Key ID="STR_ENH_TOOLS_REMOVEGOGGLES">
     <English>Remove Goggles</English>
@@ -634,6 +685,7 @@
     <Russian>Снять очки</Russian>
     <Chinesesimp>移除护目镜</Chinesesimp>
     <Chinese>移除護目鏡</Chinese>
+    <Portuguese>Remover óculos</Portuguese>
   </Key>
   <Key ID="STR_ENH_TOOLS_REMOVEHEADGEAR">
     <English>Remove Headgear</English>
@@ -646,6 +698,7 @@
     <Russian>Снять головной убор</Russian>
     <Chinesesimp>移除头盔</Chinesesimp>
     <Chinese>移除頭盔</Chinese>
+    <Portuguese>Retirar capacete</Portuguese>
   </Key>
   <Key ID="STR_ENH_TOOLS_REMOVEWEAPONS">
     <English>Remove Weapons</English>
@@ -658,6 +711,7 @@
     <Russian>Снять оружие</Russian>
     <Chinesesimp>移除武器</Chinesesimp>
     <Chinese>移除武器</Chinese>
+    <Portuguese>Remover armas</Portuguese>
   </Key>
   <Key ID="STR_ENH_AMBIENTFLYBY_SPEED_DISPLAYNAME">
     <English>Speed Mode</English>
@@ -683,6 +737,7 @@
     <Chinese>延遲</Chinese>
     <Polish>Opóźnienie</Polish>
     <Russian>Отсрочка</Russian>
+    <Portuguese>Atraso</Portuguese>
   </Key>
   <Key ID="STR_ENH_AMBIENTFLYBY_DELAY_TOOLTIP">
     <English>Delay until the first flyby starts and delay in between two flybys. Note that smaller values (n-&gt;0) will have a bigger impact on performance.</English>
@@ -695,6 +750,7 @@
     <Chinese>延遲到第一次飛行開始和兩次飛行之間的延遲。注意，較小的值(n-&gt;0)對性能的影響較大。</Chinese>
     <Polish>Opóźnienie przed pierwszym przelotem oraz pomiędzy dwoma przelotami. Uwaga, mniejsze wartości (n-&gt;0) będą miały większy wpływ na wydajność. </Polish>
     <Russian>Отсрочка до начала и отсрочка между двумя точками. Обратите внимание, меньшие значения (n-&gt; 0) будут иметь большее влияние на производительность.</Russian>
+    <Portuguese>Atraso até ao início do primeiro voo e atraso entre dois flybys. Note-se que valores mais pequenos (n-&gt;0) terão um maior impacto no desempenho.</Portuguese>
   </Key>
   <Key ID="STR_ENH_AMBIENTFLYBY_STARTPOSITION_DISPLAYNAME">
     <English>Starting Position</English>
@@ -707,6 +763,7 @@
     <Chinese>起始位置</Chinese>
     <Polish>Pozycja startowa.</Polish>
     <Russian>Начальная позиция</Russian>
+    <Portuguese>Posição inicial</Portuguese>
   </Key>
   <Key ID="STR_ENH_AMBIENTFLYBY_ENDPOSITION_DISPLAYNAME">
     <English>Ending Position</English>
@@ -719,6 +776,7 @@
     <Chinese>結束位置</Chinese>
     <Polish>Pozycja końcowa.</Polish>
     <Russian>Конечная позиция</Russian>
+    <Portuguese>Posição final</Portuguese>
   </Key>
   <Key ID="STR_ENH_EDITABLEOBJZEUS_DISPLAYNAME">
     <English>Editable Objects (Zeus)</English>
@@ -731,6 +789,7 @@
     <French>Objets modifiables (Zeus)</French>
     <Polish>Edytowalne obiekty (Zeus)</Polish>
     <Russian>Редактируемые объекты (Zeus)</Russian>
+    <Portuguese>Objetos editáveis (Zeus)</Portuguese>
   </Key>
   <Key ID="STR_ENH_EDITABLEOBJZEUS_TOOLTIP">
     <English>Checks all alive objects (except logics) every 60 seconds and makes them available for editing for all curators.\nIf no curators are in game, the attribute will not work.</English>
@@ -743,6 +802,7 @@
     <French>Scanne tous les objets vivants (sauf les entités logiques) toutes les 60 secondes et les ajoute à l'interface du Zeus.\nSi aucun Zeus n'est en jeu, l'attribut ne fonctionnera pas.</French>
     <Polish>Sprawdza wszystkie żywe obiekty (oprócz logiki) co 60 sekund i sprawia że są edytowalne dla wszystkich kuratorów.\nJeżeli nie ma kuratorów w grze to atrybut nie będzie działać. </Polish>
     <Russian>Проверяет все живые объекты (кроме логики) каждые 60 секунд и делает их доступными для редактирования для всех кураторов.\nЕсли в игре нет кураторов, атрибут не будет работать.</Russian>
+    <Portuguese>Verifica todos os objetos vivos (exceto a lógica) a cada 60 segundos e torna-os disponíveis para edição para todos os curadores.\nSe não houver curadores em jogo, o atributo não funcionará.</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAPINDICATORS_FRIENDLY">
     <English>Hide Friendly Units</English>
@@ -755,6 +815,7 @@
     <French>Ne pas afficher les unités amies</French>
     <Polish>Nie pokazuj jednostek przyjaznych</Polish>
     <Russian>Не показывать союзные отряды</Russian>
+    <Portuguese>Ocultar unidades amigas</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAPINDICATORS_ENEMY">
     <English>Hide Hostile Units</English>
@@ -767,6 +828,7 @@
     <French>Ne pas afficher les unités hostiles</French>
     <Polish>Nie pokazuj jednostek wrogich</Polish>
     <Russian>Не показывать отряды противника</Russian>
+    <Portuguese>Ocultar unidades hostis</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAPINDICATORS_MINES">
     <English>Hide Mines</English>
@@ -779,6 +841,7 @@
     <French>Ne pas afficher les mines</French>
     <Polish>Nie pokazuj min</Polish>
     <Russian>Не показывать мины</Russian>
+    <Portuguese>Ocultar Minas</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAPINDICATORS_PING">
     <English>Hide Tactical Pings</English>
@@ -791,6 +854,7 @@
     <French>Ne pas afficher les pings tactiques</French>
     <Polish>Nie pokazuj sygnału taktycznego</Polish>
     <Russian>Не показывать тактический сигнал</Russian>
+    <Portuguese>Ocultar Pings Táticos</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAPINDICATORS_FRIENDLY_TOOLTIP">
     <English>Hide Friendly Units on the Map.</English>
@@ -800,6 +864,7 @@
     <Spanish>Ocultar unidades aliadas en el mapa</Spanish>
     <Chinesesimp>在地图上隐藏友军单位.</Chinesesimp>
     <Chinese>在地圖上隱藏友軍單位.</Chinese>
+    <Portuguese>Ocultar Unidades Amigáveis no Mapa.</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAPINDICATORS_ENEMY_TOOLTIP">
     <English>Hide Hostile Units on the Map.</English>
@@ -809,6 +874,7 @@
     <Spanish>Ocultar unidades hostiles en el mapa</Spanish>
     <Chinesesimp>在地图上隐藏敌军单位.</Chinesesimp>
     <Chinese>在地圖上隱藏敵軍單位.</Chinese>
+    <Portuguese>Ocultar unidades hostis no mapa.</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAPINDICATORS_MINES_TOOLTIP">
     <English>Hide Mines on the Map.</English>
@@ -818,6 +884,7 @@
     <Spanish>Ocultar minas en el mapa</Spanish>
     <Chinesesimp>在地图上隐藏地雷.</Chinesesimp>
     <Chinese>在地圖上隱藏地雷.</Chinese>
+    <Portuguese>Ocultar Minas no Mapa.</Portuguese>
   </Key>
   <Key ID="STR_ENH_MAPINDICATORS_PING_TOOLTIP">
     <English>Hide Tactical Pings on the Map.</English>
@@ -827,6 +894,7 @@
     <Spanish>Ocultar pings tácticos en el mapa</Spanish>
     <Chinesesimp>在地图上隐藏战术Ping.</Chinesesimp>
     <Chinese>在地圖上隱藏戰術ping.</Chinese>
+    <Portuguese>Ocultar Pings Tácticos no Mapa.</Portuguese>
   </Key>
   <Key ID="STR_ENH_FORCEFLAG_DISPLAYNAME">
     <English>Add Flag</English>
@@ -839,6 +907,7 @@
     <French>Ajouter un drapeau</French>
     <Polish>Dodaj flage</Polish>
     <Russian>Добавить флаг</Russian>
+    <Portuguese>Adicionar Bandeira</Portuguese>
   </Key>
   <Key ID="STR_ENH_FORCEFLAG_TOOLTIP">
     <English>Forces a flag texture onto a flag carrier (unit, vehicle or flag pole). No flag holder is required.</English>
@@ -851,6 +920,7 @@
     <French>Impose une texture de drapeau sur un porteur de drapeau (unité, véhicule ou mât de drapeau). Aucun porte-drapeau n'est requis.</French>
     <Polish>Wymusza teksture flagi na nośnik flagi (jednostka, pojazd czy maszt). No flag holder is required.</Polish>
     <Russian>Поместить текстуру флага на носитель (юнит, транспортное средство или флагшток). Держатель флага не требуется.</Russian>
+    <Portuguese>Força uma textura de bandeira sobre um porta-bandeiras (unidade, veículo ou mastro de bandeira). Não é necessário um porta-bandeiras.</Portuguese>
   </Key>
   <Key ID="STR_ENH_DOSTOP_DISPLAYNAME">
     <English>Stay on position</English>
@@ -863,6 +933,7 @@
     <French>Restez en position</French>
     <Polish>Zostań na pozycji</Polish>
     <Russian>Оставайтесь на позиции</Russian>
+    <Portuguese>Permanecer em posição</Portuguese>
   </Key>
   <Key ID="STR_ENH_DOSTOP_TOOLTIP">
     <English>Prevents AI from moving into formation at mission start. Deactivated in multiplayer!</English>
@@ -874,6 +945,7 @@
     <Polish>Powstrzymuje AI przed dołączaniem do formacji na starcie misji. Nieaktywne w multiplayerze!</Polish>
     <Chinesesimp>防止AI在任务开始时编队。在多人游戏中已禁用！</Chinesesimp>
     <Chinese>防止AI在任務開始時進入編隊。在多人遊戲中已禁用！</Chinese>
+    <Portuguese>Impede a IA de avançar para a formação no início da missão. Desativada em multi-jogador!</Portuguese>
   </Key>
   <Key ID="STR_ENH_ADDGUNLIGHT_DISPLAYNAME">
     <English>Add Gun Light</English>
@@ -886,6 +958,7 @@
     <Chinese>添加槍支手電筒配件</Chinese>
     <Polish>Dodaj latarkę na broń</Polish>
     <Russian>Добавить фонарик на оружие</Russian>
+    <Portuguese>Adicionar luz da arma</Portuguese>
   </Key>
   <Key ID="STR_ENH_ADDGUNLIGHT_TOOLTIP">
     <English>Forces unit to have gun light turned on.</English>
@@ -898,6 +971,7 @@
     <Chinese>武裝單位會打開槍支手電筒</Chinese>
     <Polish>Zmusza jednostkę do włączenia latarki na broni.</Polish>
     <Russian>Заставляет подразделение включать свет на оружии.</Russian>
+    <Portuguese>Força unidade a ter a luz da arma acessa.</Portuguese>
   </Key>
   <Key ID="STR_ENH_ARSENAL_DISPLAYNAME">
     <English>Arsenal</English>
@@ -923,6 +997,7 @@
     <Chinese>添加武器庫到對像中</Chinese>
     <Polish>Dodaje Arsenał z wszystkimi przedmiotami do obiektu</Polish>
     <Russian>Добавляет арсенал со всеми предметами к объекту.</Russian>
+    <Portuguese>Adiciona um Arsenal com todos os itens ao objeto.</Portuguese>
   </Key>
   <Key ID="STR_ENH_ALLOWSPRINTING_DISPLAYNAME">
     <English>Allow Sprinting</English>
